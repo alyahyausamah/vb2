@@ -1,0 +1,54 @@
+c:\users\osama\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+c:\users\osama\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+c:\users\osama\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\osama\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\gpubot.exe.manifest
+C:\Users\osama\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\gpubot.application
+C:\Users\osama\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\gpubot.exe
+C:\Users\osama\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\gpubot.pdb
+C:\Users\osama\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\gpubot.xml
+C:\Users\osama\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\gpubot.exe.manifest
+C:\Users\osama\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\gpubot.application
+C:\Users\osama\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\gpubot.exe
+C:\Users\osama\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\gpubot.xml
+C:\Users\osama\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\gpubot.pdb
+C:\Users\osama\Desktop\gpubot\WindowsApplication2\obj\x86\Debug\gpubot.exe
+C:\Users\osama\Desktop\gpubot\WindowsApplication2\obj\x86\Debug\gpubot.xml
+C:\Users\osama\Desktop\gpubot\WindowsApplication2\obj\x86\Debug\gpubot.pdb
+C:\Users\osama\Desktop\gpubot\WindowsApplication2\bin\Debug\gpubot.exe.manifest
+C:\Users\osama\Desktop\gpubot\WindowsApplication2\bin\Debug\gpubot.application
+C:\Users\osama\Desktop\gpubot\WindowsApplication2\bin\Debug\gpubot.exe
+C:\Users\osama\Desktop\gpubot\WindowsApplication2\bin\Debug\gpubot.pdb
+C:\Users\osama\Desktop\gpubot\WindowsApplication2\bin\Debug\gpubot.xml
+C:\Users\osama\Desktop\gpubot\WindowsApplication2\obj\x86\Debug\gpubot1.Form1.resources
+C:\Users\osama\Desktop\gpubot\WindowsApplication2\obj\x86\Debug\gpubot1.Resources.resources
+C:\Users\osama\Desktop\gpubot\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\osama\Desktop\gpubot\WindowsApplication2\obj\x86\Debug\gpubot.exe.manifest
+C:\Users\osama\Desktop\gpubot\WindowsApplication2\obj\x86\Debug\gpubot.application
+C:\Users\osama\Desktop\gpubot all\gpubot\WindowsApplication2\obj\x86\Debug\gpubot1.Form1.resources
+C:\Users\osama\Desktop\gpubot all\gpubot\WindowsApplication2\obj\x86\Debug\gpubot1.Resources.resources
+C:\Users\osama\Desktop\gpubot all\gpubot\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\osama\Desktop\gpubot all\gpubot\WindowsApplication2\obj\x86\Debug\gpubot1.RTXBOT.resources
+C:\Users\osama\Desktop\gpubot all\gpubot\WindowsApplication2\bin\Debug\gpubot v2.exe.manifest
+C:\Users\osama\Desktop\gpubot all\gpubot\WindowsApplication2\bin\Debug\gpubot v2.application
+C:\Users\osama\Desktop\gpubot all\gpubot\WindowsApplication2\bin\Debug\gpubot v2.exe
+C:\Users\osama\Desktop\gpubot all\gpubot\WindowsApplication2\bin\Debug\gpubot v2.pdb
+C:\Users\osama\Desktop\gpubot all\gpubot\WindowsApplication2\bin\Debug\gpubot v2.xml
+C:\Users\osama\Desktop\gpubot all\gpubot\WindowsApplication2\obj\x86\Debug\gpubot v2.exe.manifest
+C:\Users\osama\Desktop\gpubot all\gpubot\WindowsApplication2\obj\x86\Debug\gpubot v2.application
+C:\Users\osama\Desktop\gpubot all\gpubot\WindowsApplication2\obj\x86\Debug\gpubot v2.exe
+C:\Users\osama\Desktop\gpubot all\gpubot\WindowsApplication2\obj\x86\Debug\gpubot v2.xml
+C:\Users\osama\Desktop\gpubot all\gpubot\WindowsApplication2\obj\x86\Debug\gpubot v2.pdb
+C:\Users\osama\Desktop\New folder\gpubot all\gpubot\WindowsApplication2\obj\x86\Debug\gpubot v2.exe
+C:\Users\osama\Desktop\New folder\gpubot all\gpubot\WindowsApplication2\obj\x86\Debug\gpubot v2.xml
+C:\Users\osama\Desktop\New folder\gpubot all\gpubot\WindowsApplication2\obj\x86\Debug\gpubot v2.pdb
+C:\Users\osama\Desktop\New folder\gpubot all\gpubot\WindowsApplication2\bin\Debug\gpubot v2.exe.manifest
+C:\Users\osama\Desktop\New folder\gpubot all\gpubot\WindowsApplication2\bin\Debug\gpubot v2.application
+C:\Users\osama\Desktop\New folder\gpubot all\gpubot\WindowsApplication2\bin\Debug\gpubot v2.exe
+C:\Users\osama\Desktop\New folder\gpubot all\gpubot\WindowsApplication2\bin\Debug\gpubot v2.pdb
+C:\Users\osama\Desktop\New folder\gpubot all\gpubot\WindowsApplication2\bin\Debug\gpubot v2.xml
+C:\Users\osama\Desktop\New folder\gpubot all\gpubot\WindowsApplication2\obj\x86\Debug\gpubot1.Form1.resources
+C:\Users\osama\Desktop\New folder\gpubot all\gpubot\WindowsApplication2\obj\x86\Debug\gpubot1.RTXBOT.resources
+C:\Users\osama\Desktop\New folder\gpubot all\gpubot\WindowsApplication2\obj\x86\Debug\gpubot1.Resources.resources
+C:\Users\osama\Desktop\New folder\gpubot all\gpubot\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\osama\Desktop\New folder\gpubot all\gpubot\WindowsApplication2\obj\x86\Debug\gpubot v2.exe.manifest
+C:\Users\osama\Desktop\New folder\gpubot all\gpubot\WindowsApplication2\obj\x86\Debug\gpubot v2.application
